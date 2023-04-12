@@ -11,5 +11,7 @@
 nav{
     background-color: rebeccapurple;
     padding: 10px;
+    display: flex;
+    justify-content:space-around;
    
 }
