@@ -1,0 +1,10 @@
+button{
+    background-color: rebeccapurple;
+    color: cyan;
+}
+button:hover{
+    background-color: orangered;
+}
+button:active{
+    background-color:pink;
+}
