@@ -15,6 +15,13 @@ nav{
     justify-content:space-around;
    
 }
+.nav-boton{
+    background-color: salmon;
+    color: #fff;
+    padding: 10px 0px;
+    border: 2px solid white;
+    display: none;
+}
 @media(max-width:600px){
     nav{
         background-color: black;
@@ -22,5 +29,8 @@ nav{
     }
     .nav-enlace{
         margin: 10px 0;
+    }
+    .nav-boton{
+        display: inline-block;
     }
 }
