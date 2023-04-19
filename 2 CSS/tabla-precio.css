@@ -25,3 +25,15 @@ body{
     font-size: 50px;
     color: aqua;
 }
+.btn-precio{
+    background-color: salmon;
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.btn-precio:hover{
+    background-color: rgb(192, 18, 18);
+}
